@@ -32,3 +32,5 @@ accordingly.
 
 What is the worst-case big $\Theta$ complexity of your implementation? Add your
 answer, including your reasoning, to this markdown file.
+
+The worst case should be $\Theta(V + E)$ as the code under worst case will iterate through every single node and edge once.
